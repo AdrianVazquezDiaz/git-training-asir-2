@@ -1,1 +1,2 @@
-console.log('Holiwi';)
+let nombre= 'Miau '
+console.log('Holiwi' + nombre;)
